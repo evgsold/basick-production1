@@ -217,9 +217,6 @@ export default function Home() {
             <p className="font-mono text-sm text-neutral-700 dark:text-neutral-300 leading-relaxed uppercase">
               {active.narrative}
             </p>
-            <div className="mt-2 font-mono text-[9px] text-neutral-400 dark:text-neutral-600 tracking-wider uppercase">
-              {active.techSpecs}
-            </div>
           </div>
         </div>
       </div>
